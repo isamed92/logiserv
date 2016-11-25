@@ -11,8 +11,8 @@ import views.EmployeeCRUD;
  *
  * @author fernando
  */
-<<<<<<< HEAD:src/main/java/controller/Main.java
-public class Main {
+//<<<<<<< HEAD:src/main/java/controller/Main.java
+public class DbHelper{
 
     /**
      * @param args the command line arguments
@@ -25,8 +25,9 @@ public class Main {
         v.setVisible(true);
         
     }
-=======
-public class DbHelper {
->>>>>>> refs/remotes/zafe/master:src/main/java/model/DbHelper.java
-    
 }
+//public class DbHelper {
+//>>>>>>> refs/remotes/zafe/master:src/main/java/model/DbHelper.java
+    
+//}
+
